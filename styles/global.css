@@ -53,7 +53,7 @@ ul {
 li {
   display: flex;
   position: relative;
-  padding: .65em;
+  padding: .55em;
   justify-content: center;
   align-items: center;
   font-weight: 400;
