@@ -66,21 +66,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 Javascript, HTML, CSS, Netlify
 
-## Installation
-
-Install breezify with npm
-
-```bash
-  npm install breezify
-  cd breezify
-```
-
-Install packages
-
-```bash
-  npm install
-```
-
 ## Roadmap
 
 - Create file and folder structures for App
