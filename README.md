@@ -2,10 +2,6 @@
 
 This is an application shuffles an array of numbers 1-9 and sorts them accordingly.
 
-## Authors
-
-- [@davidadeola](https://www.github.com/davidadeola)
-
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
@@ -38,11 +34,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 - Sorting
 - Responsive
 - color shuffle
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/david-adeola)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DavidAdeola_)
 
 ## Other Common Github Profile Sections
 
@@ -83,7 +74,7 @@ Javascript, HTML, CSS, Netlify
 Clone the project
 
 ```bash
-  git clone https://github.com/davidadeola/randomize.git
+  git clone https://github.com/dolorunsesan/randomize.git
 ```
 
 Go to the project directory
